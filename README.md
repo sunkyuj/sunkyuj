@@ -47,13 +47,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=Slack&logoColor=white)
 
+![Sunkyu Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunkyuj&show_icons=true&theme=tokyonight)  
  
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@sunkyuj)](https://velog.io/@sunkyuj)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sunkyuj12@gmail.com)](mailto:kimsh1691@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:sunkyuj@naver.com)](mailto:sunkyuj@naver.com)
 
-![Sunkyu Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunkyuj&show_icons=true&theme=tokyonight)  
+
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunkyuj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
