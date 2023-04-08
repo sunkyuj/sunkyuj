@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Sunkyu's Github Profile 
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunkyuj)](https://solved.ac/sunkyuj/)
