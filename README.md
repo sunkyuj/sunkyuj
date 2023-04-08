@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=Bootstrap&logoColor=white)
 
-
+### Infra & DevOps
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?&style=flat&logo=awslambda&logoColor=white)
 ![AWS API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B.svg?&style=flat&logo=amazonapigateway&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/RDS-527FFF.svg?&style=flat&logo=amazonrds&logoColor=white)
