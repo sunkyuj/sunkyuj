@@ -47,7 +47,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=Slack&logoColor=white)
 
-#### GitHub Stats
+### 📊GitHub Stats
 ![Sunkyu Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunkyuj&show_icons=true&theme=tokyonight)  
  
 # :mailbox_with_mail: Contacts
