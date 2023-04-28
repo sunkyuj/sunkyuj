@@ -9,14 +9,10 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=flat&logo=SpringBoot&logoColor=white)
 
 - Studied: 
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C.svg?&style=flat&logo=C%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=flat&logo=Arduino&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=Bootstrap&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat&logo=OpenCV&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=Flask&logoColor=white)
