@@ -2,13 +2,13 @@
 
 ## 💪 Skills
 ### Platforms & Languages
-**Interested**: 
+Interested: 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=flat&logo=SpringBoot&logoColor=white)
 
-**Studied**: 
+Studied: 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat&logo=OpenCV&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=flat&logo=Flask&logoColor=white)
