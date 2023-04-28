@@ -3,8 +3,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunkyuj)](https://solved.ac/sunkyuj/)
 
-# 💪Skills
-### Platforms & Languages
+## 💪Skills
+#### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white)
@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=Bootstrap&logoColor=white)
 
-### Infra & DevOps
+#### Infra & DevOps
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?&style=flat&logo=awslambda&logoColor=white)
 ![AWS API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B.svg?&style=flat&logo=amazonapigateway&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/RDS-527FFF.svg?&style=flat&logo=amazonrds&logoColor=white)
@@ -40,13 +40,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
 
-### Tools
+#### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=flat&logo=visualstudio&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=flat&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=Slack&logoColor=white)
 
+#### GitHub Stats
 ![Sunkyu Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunkyuj&show_icons=true&theme=tokyonight)  
  
 # :mailbox_with_mail: Contacts
