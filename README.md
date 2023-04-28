@@ -2,6 +2,7 @@
 
 ## 💪 Skills
 #### Platforms & Languages
+**Interested**: 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white)
