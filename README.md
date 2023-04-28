@@ -34,7 +34,6 @@
 ![AWS EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B.svg?&style=flat&logo=&logoColor=white)
 ![AWS Lex](https://img.shields.io/badge/Amazon%20Lex-569A31.svg?&style=flat&logo=amazonlex&logoColor=white)
 
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-4479A1.svg?&style=flat&logo=MSSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=MongoDB&logoColor=white)
@@ -47,10 +46,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=Slack&logoColor=white)
 
-### 📊GitHub Stats
+
+## 📊GitHub Stats
 ![Sunkyu Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunkyuj&show_icons=true&theme=tokyonight)  
  
-# :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@sunkyuj)](https://velog.io/@sunkyuj)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sunkyuj12@gmail.com)](mailto:kimsh1691@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:sunkyuj@naver.com)](mailto:sunkyuj@naver.com)
