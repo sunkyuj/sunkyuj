@@ -44,10 +44,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=Slack&logoColor=white)
 
-
-## 📊 Stats
-![Sunkyu Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunkyuj&show_icons=true&theme=tokyonight)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunkyuj)](https://solved.ac/sunkyuj/)
  
 ## :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@sunkyuj)](https://velog.io/@sunkyuj)
