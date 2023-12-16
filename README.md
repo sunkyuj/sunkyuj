@@ -1,4 +1,4 @@
-# 👋 Sunkyu's Github Profile 
+# 👋 Sunkyu's Github Profile  
 
 ## 💪 Skills
 ### Platforms & Languages
